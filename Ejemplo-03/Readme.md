@@ -1,3 +1,12 @@
+# Ejemplo 3. Boxplots y outliers
+
+#### Objetivo
+
+#### Requisitos
+
+#### Desarrollo
+
+
 ggplot2
 
 library(dplyr)

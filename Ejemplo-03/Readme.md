@@ -16,18 +16,18 @@ Cargamos las librerias necesarias para la realización del ejemplo, además del 
 library(ggplot2)
 library(dplyr)
 
-data <- read.csv("../Sesion_03/boxp.csv")
+data2 <- read.csv("../Sesion_03/boxp.csv")
 ```
 
 Revisamos el encabezado del fichero y el nombre de sus variables o columnas
 ```R
 head(data2)
-names(data)
+names(data2)
 ```
 
 Vamos a reliazar un cambio en la variable `Mediciones` para practicar 
 ```R
-data <- mutate(data, Mediciones = Mediciones*1.23)
+data <- mutate(data2, Mediciones = Mediciones*1.23)
 head(data)
 ```
 Observamos algunos datos estádisticos sobre las variables

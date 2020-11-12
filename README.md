@@ -6,9 +6,9 @@ Lograr un mejor conocimiento o entendimiento del problema con el cual se relacio
 #### Durante el transcurso de esta sesión serás capaz de desarrollar las siguientes capacidades de R 
 
 Conocer mejor el conjunto de datos con el que se esté trabajando, 
-- Llevar a cabo visualizaciones
-- Plantear hipótesis 
-- Formular preguntas relevantes.  
+- Llevar a cabo visualizaciones que permitan tener un mayor entendimiento de los datos y la problemática
+- Plantear hipótesis sobre alguna situación 
+- Formular preguntas relevantes
 
 ##### Aquí encontraras los ejemplos de la sesión 3.
 

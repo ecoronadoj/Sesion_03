@@ -2,9 +2,12 @@
 
 #### Objetivo
 - Desarrollar habilidades para realizar e interpretar scatter plots
+- Utilizar diferentes funciones de ggplot 
+- Variantes de scatter plots
 
 #### Requisitos
 - Tener conceptos básicos de gráficación 
+- Haber realizado el prework
 
 #### Desarrollo
 

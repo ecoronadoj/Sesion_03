@@ -51,4 +51,5 @@ data %>%
   theme_light()
 ```
 
+Tanto `hist()`, como `ggplot() + aes() + geom_histogram()` son útiles para generar los histogramas, tu decide cual te funciona mejor.  
 

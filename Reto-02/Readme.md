@@ -15,4 +15,4 @@
  2. Realiza el histograma con la función `hist()`, nativa de R
  3. Ahora realiza el histograma con el comando `ggplot`. (Recuerda que debes instalar el package `ggplot2`)
  
- Reflexiona sobre el ejercicio y saca tus consluiones.
+ Reflexiona sobre el ejercicio y saca tus conclusiones.

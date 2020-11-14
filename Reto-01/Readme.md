@@ -22,4 +22,4 @@ AP <- AirPassengers
 2. Descompón la serie de tiempo en aditiva y multiplicativa y realiza sus gráficas
 3. Realiza la gráfica de la descomposición aditiva con la tendencia y la estacionalidad utilizando el comando `lines`
 4. Realiza la gráfica de la descomposición multiplicativa con la tendencia y la estacionalidad utilizando el comando `lines`
-5. Ejecuta la prueba de _Dickey-Fuller_ para determinar si el comportamiento es estócastico
+5. Ejecuta la prueba de _Dickey-Fuller_ para determinar si el comportamiento es estocástico
